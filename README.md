@@ -2,4 +2,4 @@
 
 Android 视差引导页面
 
-![](https://github.com/Qiang3570/DragLayoutExpand/blob/master/amp888le.gif)
+![](https://github.com/836948082/ParallaxGuide/blob/master/image/image.gif)
